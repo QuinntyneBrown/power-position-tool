@@ -1,0 +1,7 @@
+version: 1.0.{build}
+build:
+  project: PowerPositionTool.sln
+  verbosity: minimal
+artifacts:
+- path: src/PowerPositionTool/bin/Release
+  name: PowerPositionTool
