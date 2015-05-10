@@ -43,7 +43,7 @@ Logging is provided by the log4net logging library. There is a separate configur
 * report-localtime-format - the time format to use in the position report
 * pipeline-buffer-size" - the buffer size used by the position report computation pipeline
 
-# Build
+# Build [![Build status](https://ci.appveyor.com/api/projects/status/9ga2er7olbvw7849/branch/master?svg=true)](https://ci.appveyor.com/project/simontcousins/power-position-tool/branch/master)
 
 Open the soluion in Visual Studio 2013 and build.
 
